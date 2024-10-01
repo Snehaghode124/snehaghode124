@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sneha Ghode</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🔭 I’m currently working on **ECGp Based Disease Prediction**
+- 🔭 I’m currently working on **ECG Based Heart  Disease Prediction**
 
 - 📫 How to reach me **snehaghode28@gmail.com**
 
