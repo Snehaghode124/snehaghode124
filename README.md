@@ -6,7 +6,7 @@
 - 📫 How to reach me **snehaghode28@gmail.com**
 
 - ⚡ Fun fact **I can bring a smile on you**
-- ![My Fun GIF](assets/my-fun-gif.gif)
+
 
 
 <h3 align="left">Connect with me:</h3>
